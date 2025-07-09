@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "First Blog"
 date: 2025-07-09
+category: [首页, 生活]
 ---
 # Why build this blog?
 - I am on the way of targeting FIRE (Financial Independence, Retire Early).
